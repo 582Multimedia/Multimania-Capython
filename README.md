@@ -61,7 +61,7 @@ a maniacal, multimedia hackathon with our friend Capy
 - Have a well-defined purpose, inform, share, entertain, evoke emotion
 - Ideally projects would be authentic & creative, ideally solving some real-world problem
 - Use various media
-- Have clear direction and a consistent visual language across media [HLC]
+- Have clear direction and a consistent visual language across media
 - Incorporate some sort of user interaction
 - Apply design theory, practices and thinking 
 
