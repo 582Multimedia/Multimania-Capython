@@ -50,7 +50,12 @@ a maniacal, multimedia hackathon with our friend Capy
  
 ## Multimania Project Details
 ### Description:  
-- Create a multimedia project that includes at least a small cameo from our buddy Capy. 
+- Create a multimedia project that includes at least a small cameo from our buddy Capy.
+
+### Theme(??)
+- vintage / nostalgia
+- think local
+- authenticity
 
 ### Projects should: 
 - Have a well-defined purpose, inform, share, entertain, evoke emotion
