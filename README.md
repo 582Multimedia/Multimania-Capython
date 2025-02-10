@@ -46,6 +46,8 @@ a maniacal, multimedia hackathon with our friend Capy
   - presentations 
   - Closing Ceremony
  
+![Capy's got our back](/capy-1012708.jpg)
+ 
 ## Multimania Project Details
 ### Description:  
 - Create a multimedia project that includes at least a small cameo from our buddy Capy. 
