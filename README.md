@@ -89,3 +89,59 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
 - **Friday** 11am
   - presentations
   - Closing Ceremony
+
+## Possible Ideas
+
+1. Story Jam: The Hero’s Journey in Design
+📜 Theme: Applying narrative structures (like the Hero’s Journey) to design and multimedia.
+🎯 Goal: Teams create a multimedia project (poster series, motion graphics, interactive experience, etc.) that tells a story within a set time limit.
+🛠 Constraints: Each team draws a card with a different archetype, mythic element, or unexpected plot twist to integrate into their project.
+⭐ Why it works: Encourages narrative thinking in design and challenges students to connect visuals with storytelling.
+
+---
+
+2. Brand Identity Sprint: “From Zero to Brand”
+📦 Theme: Teams create a complete brand identity (logo, social media assets, motion piece, website mockup) for a randomly assigned fictional company or social cause.
+🎯 Goal: Develop a full branding package within a strict deadline.
+🛠 Constraints: Teams get prompts with limitations like “a futuristic bakery” or “a non-profit for introverts.”
+⭐ Why it works: Simulates real-world branding work under time constraints and encourages collaboration between graphic, motion, and interactive designers.
+
+---
+
+3. The Multimedia Remix Challenge
+🎥 Theme: Teams receive random found footage, audio clips, and images that they must remix into a cohesive multimedia project (short film, animation, motion piece, interactive experience, etc.).
+🎯 Goal: Create an experimental or narrative-driven piece using only the provided assets + simple additions.
+🛠 Constraints: Limited external resources; teams must creatively work with what’s given.
+⭐ Why it works: Encourages out-of-the-box thinking, nonlinear storytelling, and fast decision-making.
+
+---
+
+4. Escape Room Challenge
+🕵️ Theme: Teams design an interactive prototype for a digital “escape room” experience.
+🎯 Goal: The project must integrate UI elements, storytelling, and interaction design to create an engaging puzzle experience.
+🛠 Constraints: Limited to certain UI frameworks or interaction methods.
+⭐ Why it works: Encourages thinking about usability, game mechanics, and narrative-driven design.
+
+---
+
+5. The “No Software” Challenge
+✂️ Theme: Participants must create a multimedia project (animation, poster, interactive piece) without using any digital tools—everything must be built physically and captured (stop motion, paper prototyping, hand-lettered typography, etc.).
+🎯 Goal: Rethink digital design by going analog first.
+🛠 Constraints: No computers—only cameras, scanners, and traditional media allowed.
+⭐ Why it works: Forces a tactile, hands-on approach to design and multimedia, fostering innovation through limitations.
+
+---
+
+6. Media Mashup Challenge
+A cross-disciplinary jam where students mix different media types to tell a compelling story.
+Theme: "Reimagining Montreal 2050," "Digital Mythologies," or "Urban Legends in AR."
+Deliverables: A short film, interactive website, animated poster, or social media campaign.
+Twist: Students must use at least three media formats (e.g., video + animation + interactive design).
+
+---
+
+7. UX/UI Challenge: Design for Good
+A weekend challenge where students redesign a digital experience for accessibility or inclusivity.
+Theme: Non-profit websites, mental health apps, or public services.
+Deliverables: Wireframes, high-fidelity prototypes (Figma), and a presentation.
+Twist: Randomly assign user personas with accessibility needs to ensure diverse perspectives.
