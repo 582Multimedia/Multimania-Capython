@@ -79,6 +79,7 @@ a maniacal, multimedia hackathon with our friend Capy
 - Project Description / Presentation
 - Project Plan
 - Portfolio / Case Study
+- Capyskills package
 - Present working draft/prototype / Play Test
 - Get and Give Feedback for Case Study
 - List of Actionable items
