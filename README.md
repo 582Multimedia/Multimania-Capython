@@ -1,63 +1,14 @@
 # Multimania-Capython
+
 a maniacal, multimedia hackathon with our friend Capy
 
-## v.2025 Details
-
-### week of February 17
-
-- introduce Multimania Capython
-- dates, expectations, general deliverables etc
-
-### week of February 24
-
-- make teams & give them time to work together
-
-### March 3-7 Capython
-
-- Monday a.m. introduction
-  - teams start planning  
-  - brainstorming session (project ideation)
-
-- Monday pm
-  - presentations of plan  
-
-- Tuesday am
-  - mentor presentation  
-
-- Tuesday pm project plan & start working  
-  - mood boards  
-  - research  
-  - Sketches and wireframe 
-  - Layouts 
-  - User Profiles 
-  - Gantt chart
-    
-- Wednesday UB seminar  
-  - UB all hands on deck – team check in on progress 
-  - working session  
-  - mentors in p.m.  
-  - working draft / prototype
-  
-- Thursday  
-  - present draft to other team for feedback  
-  - finish project  
-  - 5 à 7
-    
-- Friday a.m.
-  - prepare presentation
-  
-- Friday 11am
-  - presentations 
-  - Closing Ceremony
- 
 ![Capy's got our back](/capy-1012708.jpg)
- 
+
 ## Multimania Project Details
 
-### Description:
+### Description
 
-- Create a multimedia project that includes at least a small cameo from our buddy Capy.
-- Create a portfolio piece that must showcase creativity, Capyskills including collaboration, technical proficiency in multiple design tools
+Create a portfolio piece that must showcase creativity, Capyskills including collaboration, technical proficiency in multiple design tools and at least a small cameo from our buddy Capy.
 
 ### Theme(??)
 
@@ -72,7 +23,7 @@ a maniacal, multimedia hackathon with our friend Capy
 - Use various media
 - Have clear direction and a consistent visual language across media
 - Incorporate some sort of user interaction
-- Apply design theory, practices and thinking 
+- Apply design theory, practices and thinking
 
 ### Examples of projects
 
@@ -96,3 +47,45 @@ a maniacal, multimedia hackathon with our friend Capy
 - List of Actionable items
 - Web Page Promotional Materials
 - Final Presentation
+
+## v.2025 Details
+
+### week of February 17
+
+- introduce Multimania Capython
+- dates, expectations, general deliverables etc
+
+### week of February 24
+
+- make teams & give them time to work together
+
+### March 3-7 Capython
+
+- **Monday** a.m. introduction
+  - teams start planning
+  - brainstorming session (project ideation)
+- **Monday** pm
+  - presentations of plan
+- **Tuesday** am
+  - mentor presentation
+- **Tuesday** pm project plan & start working
+  - mood boards
+  - research
+  - Sketches and wireframe
+  - Layouts
+  - User Profiles
+  - Gantt chart
+- **Wednesday** UB seminar
+  - UB all hands on deck – team check in on progress
+  - working session
+  - mentors in p.m.
+  - working draft / prototype
+- **Thursday**
+  - present draft to other team for feedback
+  - finish project
+  - 5 à 7
+- **Friday** a.m.
+  - prepare presentation
+- **Friday** 11am
+  - presentations
+  - Closing Ceremony
