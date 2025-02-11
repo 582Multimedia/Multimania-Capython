@@ -2,17 +2,21 @@
 a maniacal, multimedia hackathon with our friend Capy
 
 ## v.2025 Details
-### week of February 17
-  - introduce Multimania Capython
-  - dates, expectations, general deliverables etc
- 
-### week of February 24
-  - make teams & give them time to work together
 
-### March 3-7 Capython 
-- Monday a.m. introduction  
+### week of February 17
+
+- introduce Multimania Capython
+- dates, expectations, general deliverables etc
+
+### week of February 24
+
+- make teams & give them time to work together
+
+### March 3-7 Capython
+
+- Monday a.m. introduction
   - teams start planning  
-  - brainstorming session (project ideation) 
+  - brainstorming session (project ideation)
 
 - Monday pm
   - presentations of plan  
@@ -49,15 +53,20 @@ a maniacal, multimedia hackathon with our friend Capy
 ![Capy's got our back](/capy-1012708.jpg)
  
 ## Multimania Project Details
-### Description:  
+
+### Description:
+
 - Create a multimedia project that includes at least a small cameo from our buddy Capy.
+- Create a portfolio piece that must showcase creativity, Capyskills including collaboration, technical proficiency in multiple design tools
 
 ### Theme(??)
+
 - vintage / nostalgia
 - think local
 - authenticity
 
-### Projects should: 
+### Projects should
+
 - Have a well-defined purpose, inform, share, entertain, evoke emotion
 - Ideally projects would be authentic & creative, ideally solving some real-world problem
 - Use various media
@@ -65,7 +74,8 @@ a maniacal, multimedia hackathon with our friend Capy
 - Incorporate some sort of user interaction
 - Apply design theory, practices and thinking 
 
-### Examples of projects:
+### Examples of projects
+
 - Real-time interactive multimedia project using tools such as TouchDesigner
 - Web-based game or application
 - Augmented reality experience
@@ -75,7 +85,8 @@ a maniacal, multimedia hackathon with our friend Capy
 - 3d printing project (combined with other media)
 - Physical Board or Card Game with Multimedia support
 
-### Deliverables:
+### Deliverables
+
 - Project Description / Presentation
 - Project Plan
 - Portfolio / Case Study
@@ -85,5 +96,3 @@ a maniacal, multimedia hackathon with our friend Capy
 - List of Actionable items
 - Web Page Promotional Materials
 - Final Presentation
-
-
