@@ -89,6 +89,10 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
 - **Friday** 11am
   - presentations
   - Closing Ceremony
+ 
+---
+![Capy's got our back](/capy-1000121.jpg)
+---
 
 ## Possible Ideas
 
