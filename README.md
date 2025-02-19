@@ -158,3 +158,23 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
 - Theme: Non-profit websites, mental health apps, or public services.
 - Deliverables: Wireframes, high-fidelity prototypes (Figma), and a presentation.
 - Twist: Randomly assign user personas with accessibility needs to ensure diverse perspectives.
+
+
+---
+## Capyskills Package
+Capyskills Journal
+
+In a cloud document of your choice (Figma, Teams, Canva... whatever)
+
+- choose a skill or sub-competency like HOS.1.2 Set Goals
+- self evaluate what level you are at. i.e. at level 6 you can "create an action plan for each goal".
+- gather evidence to support your self evaluation
+- meet with a mentor or teacher to:
+  - confirm your level
+  - discover & plan how you can improve your level
+- work on your project, implementing your SMART plan
+- self evaluate your progress every week
+- meet briefly with your mentor to go over your progress
+- when you move up a level, celebrate, check out other Capyskills and continue to improve
+- Ultimately the plan is to help you improve in the areas that mean the most to you.
+- pro tip: double-check your document is accessible to others by opening your link in an incognito window
