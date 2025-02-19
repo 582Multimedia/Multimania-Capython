@@ -62,32 +62,32 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
 ### March 3-7 Capython
 
 - **Monday** a.m. introduction
-  - teams start planning
-  - brainstorming session (project ideation)
+  - Teams start planning
+  - Brainstorming session (project ideation)
 - **Monday** pm
-  - presentations of plan
+  - Presentations of plan
 - **Tuesday** am
-  - mentor presentation
+  - Mentor presentation
 - **Tuesday** pm project plan & start working
-  - mood boards
-  - research
+  - Mood boards
+  - Research
   - Sketches and wireframe
   - Layouts
   - User Profiles
   - Gantt chart
 - **Wednesday** UB seminar
   - UB all hands on deck – team check in on progress
-  - working session
-  - mentors in p.m.
-  - working draft / prototype
+  - Working session
+  - Mentors in p.m.
+  - Working draft / prototype
 - **Thursday**
-  - present draft to other team for feedback
-  - finish project
+  - Present draft to other team for feedback
+  - Finish project
   - 5 à 7
 - **Friday** a.m.
-  - prepare presentation
+  - Prepare presentation
 - **Friday** 11am
-  - presentations
+  - Presentations
   - Closing Ceremony
 
 ---
