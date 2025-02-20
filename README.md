@@ -90,7 +90,7 @@ Individually you will create a portfolio piece that
 - Web Page Promotional Materials
 - Final Group Presentation
 - Portfolio / Case Study
-  - Capyskills package
+  - [Capyskills package](#capyskills-package)
 
 --- 
 
