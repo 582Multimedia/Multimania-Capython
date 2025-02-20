@@ -28,6 +28,37 @@ Individually you will create a portfolio piece that
 - Supporting the holistic well-being of students
 - Building respect for diversity and removing barriers to racial and social equity
 
+---
+
+## Goals
+- Inform
+- Persuade
+- Engage
+- Educate
+- Inspire
+- Entertain
+- Connect
+- Enhance
+- Challenge
+- Illustrate
+- Facilitate
+- Stimulate
+- Empower
+- Demonstrate
+- Simplify
+- Motivate
+- Captivate
+- Showcase
+- Clarify
+- Empathize
+- Amplify
+- Transform
+- Visualize
+- Build
+- Optimize
+
+---
+
 ### Projects should
 
 - Have a well-defined purpose, inform, share, entertain, evoke emotion
@@ -109,34 +140,6 @@ Individually you will create a portfolio piece that
 ---
 
 ![Capy's got our back](/capy-1000121.jpg)
-
----
-## Goals
-- Inform
-- Persuade
-- Engage
-- Educate
-- Inspire
-- Entertain
-- Connect
-- Enhance
-- Challenge
-- Illustrate
-- Facilitate
-- Stimulate
-- Empower
-- Demonstrate
-- Simplify
-- Motivate
-- Captivate
-- Showcase
-- Clarify
-- Empathize
-- Amplify
-- Transform
-- Visualize
-- Build
-- Optimize
 
 ---
 
