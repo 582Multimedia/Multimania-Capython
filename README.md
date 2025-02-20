@@ -64,10 +64,11 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
 - **Monday** a.m. introduction
   - Teams start planning
   - Brainstorming session (project ideation)
+  - Share your Capyskill & level
 - **Monday** pm
   - Presentations of plan
 - **Tuesday** am
-  - Mentor presentation
+  - Mentor presentations / assistance
 - **Tuesday** pm project plan & start working
   - Mood boards
   - Research
@@ -77,7 +78,7 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
   - Gantt chart
 - **Wednesday** UB seminar
   - UB all hands on deck – team check in on progress
-  - Working session
+  - Working session with mentors
   - Mentors in p.m.
   - Working draft / prototype
 - **Thursday**
@@ -93,6 +94,34 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
 ---
 
 ![Capy's got our back](/capy-1000121.jpg)
+
+---
+## Goals
+- Inform
+- Persuade
+- Engage
+- Educate
+- Inspire
+- Entertain
+- Connect
+- Enhance
+- Challenge
+- Illustrate
+- Facilitate
+- Stimulate
+- Empower
+- Demonstrate
+- Simplify
+- Motivate
+- Captivate
+- Showcase
+- Clarify
+- Empathize
+- Amplify
+- Transform
+- Visualize
+- Build
+- Optimize
 
 ---
 
