@@ -2,19 +2,31 @@
 
 a maniacal, multimedia hackathon with our friend Capy
 
-![Capy's got our back](/capy-1012708.jpg)
+![Capy's gettin' 'er done](/capy-100123.jpg)
 
 ## Multimania Project Details
 
 ### Description
 
-Create a portfolio piece that must showcase creativity, Capyskills including collaboration, technical proficiency in multiple design tools and at least a small cameo from our buddy Capy.
+Each team will receive:
+- a goal (like inform, persuade entertain)
+- a focus area from the [Vanier Student Success Plan](https://www.vaniercollege.qc.ca/strategic-plan) (like "Focussing on Sustainability and Innovation)
 
-### Theme(??)
+As a team you will create a multimedia project that uses design thinking and theory to achieve your prescribed goal for your chosen focus area. Projects should include an immersive and / or interactive component.
 
-- vintage / nostalgia
-- think local
-- authenticity
+Individually you will create a portfolio piece that
+- describes and shares your team project
+- reveals your and your team's design process
+- includes your Capyskill package
+
+### Student Success Focus Areas
+- Engaging meaningfully in the world
+- Building a respectful and supportive community
+- Honouring the Indigenous Education Protocol
+- Focusing on sustainability and innovation
+- Achieving engaging and inclusive student learning
+- Supporting the holistic well-being of students
+- Building respect for diversity and removing barriers to racial and social equity
 
 ### Projects should
 
@@ -38,25 +50,28 @@ Create a portfolio piece that must showcase creativity, Capyskills including col
 
 ### Deliverables
 
-- Project Description / Presentation
-- Project Plan
-- Portfolio / Case Study
-- Capyskills package
-- Present working draft/prototype / Play Test
+- Project Description / Presentation (Monday)
+- Project Plan (Tuesday)
+  - List of actionable items
+- Progress report / agile scrum (Wednesday)
+- Present working draft/prototype / play test (Thursday)
 - Get and Give Feedback for Case Study
-- List of Actionable items
 - Web Page Promotional Materials
-- Final Presentation
+- Final Group Presentation
+- Portfolio / Case Study
+  - Capyskills package
+
+--- 
+
+![Capy's got our back](/capy-1012708.jpg)
 
 ## v.2025 Details
 
 ### week of February 17
-
 - introduce Multimania Capython
 - dates, expectations, general deliverables etc
 
 ### week of February 24
-
 - make teams & give them time to work together
 
 ### March 3-7 Capython
