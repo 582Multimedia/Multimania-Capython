@@ -2,7 +2,7 @@
 
 a maniacal, multimedia hackathon with our friend Capy
 
-![Capy's gettin' 'er done](/capy-100123.jpg)
+![Capy's gettin' 'er done](/capy-1000123.jpg)
 
 ## Multimania Project Details
 
