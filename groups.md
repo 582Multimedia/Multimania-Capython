@@ -181,4 +181,7 @@
 ## links & resources
 
 [Vanier Student Success Plan](https://www.vaniercollege.qc.ca/strategic-plan)
+
+
+
 [Indigenous Eduction Protocol](https://www.indigenouswatchdog.org/update/colleges-and-institutes-canada-indigenous-education-protocol/)
