@@ -4,13 +4,16 @@ a maniacal, multimedia hackathon with our friend Capy
 
 ![Capy's gettin' 'er done](/capy-1000123.jpg)
 
+[check out the groups, focus areas & goals](/groups.md)
+
 ### "full" group activity times
-Trying to meet all together:
-- Monday at 10am and or 3pm
-- Wednesday at UB (12 noon)
-- Thursday sometime during the day
-- Thursday 4-6 for "potlach"
-- Friday at 11am or 3pm for final presentations
+**you should be present for all your regular class times plus**
+Times to meet all together:
+- Monday at 10am and or 3pm (intros & organization)
+- Wednesday at UB (12 noon) (scrum & mentoring)
+- Thursday sometime during the day (most of you are here)
+- Thursday 4-6 for "potlach" (a social event)
+- Friday at 11am or 3pm for final presentations (let us know when you can **all** be present)
 
 ## Multimania Project Details
 
