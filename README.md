@@ -4,6 +4,14 @@ a maniacal, multimedia hackathon with our friend Capy
 
 ![Capy's gettin' 'er done](/capy-1000123.jpg)
 
+### "full" group activity times
+Trying to meet all together:
+- Monday at 10am and or 3pm
+- Wednesday at UB (12 noon)
+- Thursday sometime during the day
+- Thursday 4-6 for "potlach"
+- Friday at 11am or 3pm for final presentations
+
 ## Multimania Project Details
 
 ### Description
@@ -107,7 +115,7 @@ Individually you will create a portfolio piece that
 
 ### March 3-7 Capython
 
-- **Monday** a.m. introduction
+- **Monday** 10am and 2:30pm introductions
   - Teams start planning
   - Brainstorming session (project ideation)
   - Share your Capyskill & level
@@ -123,7 +131,7 @@ Individually you will create a portfolio piece that
   - User Profiles
   - Gantt chart
 - **Wednesday** UB seminar
-  - UB all hands on deck – team check in on progress
+  - UB (12 noon) all hands on deck – team check in on progress
   - Working session with mentors
   - Mentors in p.m.
   - Working draft / prototype
@@ -133,7 +141,7 @@ Individually you will create a portfolio piece that
   - 5 à 7
 - **Friday** a.m.
   - Prepare presentation
-- **Friday** 11am
+- **Friday** 11am and 3pm
   - Presentations
   - Closing Ceremony
 
