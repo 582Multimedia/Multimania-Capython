@@ -23,7 +23,10 @@ Times to meet all together:
 - goal
 - project description
 - team members
-- send us the link to your Figma
+- send us the link to your Figma 
+  - create a project
+  - name your file!! 
+
 ### Project Plan
 - meeting times
 - tasks (use backwards design for planning)
@@ -31,6 +34,7 @@ Times to meet all together:
   - assigned to?
  - time to share prototype with others on Thursday
  - final presentation time
+ 
 ### Capyskills
 - individual competency
 - self-assessed level
