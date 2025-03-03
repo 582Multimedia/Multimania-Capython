@@ -22,6 +22,7 @@
 
 
 ## 2
+[Figma](https://www.figma.com/design/jZFrV1QSTELJZPwelnN2Fr/Gathering-trail?node-id=56-2&t=736y3sXbX9SWlfA1-1)
 - Amandine
 - Jefferson
 - Jason
@@ -51,6 +52,7 @@
 
 
 ## 4
+[Figma](https://www.figma.com/design/NnSmeFA0GztnbTeY9COM1H/Project-Plan?node-id=109-6&t=ZQrOIfPzKbhH0tWB-1)
 - Jayvee
 - Marwan
 - Emmacolata
@@ -64,6 +66,7 @@
 - amplify
 
 ## 5
+[Figma](https://www.figma.com/design/ETtjcQYN8vuZJod9BrC1H6/Mountain-Masters?node-id=0-1&t=fGK5sYqNDo4MnVGn-1)
 - Alessandro
 - Rifah
 - Linh
@@ -78,7 +81,8 @@
 ### goal
 - empathize
 
-## 6
+## 6 ThinkFlow
+[Figma](https://www.figma.com/design/Oc7xCeNhazeSHQjNPRyNTz/ThinkFlow-Moodboard?node-id=51-51&t=ud7Urk6bvepEL2Aw-1   )
 - Jenny
 - Karol
 - Kelly
@@ -91,7 +95,8 @@
 ### goal
 - inspire
 
-## 7
+## 7 Mountain Masters
+[Mountain Masters Figma file](https://www.figma.com/design/ETtjcQYN8vuZJod9BrC1H6/Group-name%3A-Mountain-Masters?node-id=0-1&t=iMuIUjj7LFKiyeFm-1)
 - Felipe
 - Kiara
 - Fiona
@@ -119,7 +124,8 @@
 ### goal
 - illustrate
 
-## 9
+## 9 N0Cells
+[Figma](https://www.figma.com/design/s1lIfv9FTay3TFKKWhafDO/PLAN-FOR-CAPYTHON?node-id=0-1&t=DEHOPKURcKcLG4ye-1)
 - Tracey
 - Sebastian
 - Noah
@@ -134,6 +140,7 @@
 - facillitate
 
 ## 10
+[Figma](https://www.figma.com/design/n1QgvBlVbWeYjj4yYkR6rN/Multimedia-Hackathon?node-id=0-1&t=Nz73xgQYhlgH60Vr-1)
 - Christopher
 - Shaqaiq
 - Jacky
@@ -148,7 +155,8 @@
 ### goal
 - transform
 
-## 11
+## 11 Shyne
+[Figma](https://www.figma.com/design/LFdXUE7c0TK57vQjZ5Xz0d/Capython?node-id=0-1&t=iXAKxAMUpabYYtwU-1)
 - Seojin
 - Yousef
 - Aaliyah
@@ -163,7 +171,7 @@
 ### goal
 - motivate
 
-## 12
+## 12 NotYet
 - Lara
 - Brandon
 - Constance
