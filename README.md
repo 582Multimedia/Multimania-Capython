@@ -17,6 +17,27 @@ Times to meet all together:
 
 ## Multimania Project Details
 
+## Monday Objectives
+### Description of Project (Figma)
+- focus area
+- goal
+- project description
+- team members
+- send us the link to your Figma
+### Project Plan
+- meeting times
+- tasks (use backwards design for planning)
+  - deadlines
+  - assigned to?
+ - time to share prototype with others on Thursday
+ - final presentation time
+### Capyskills
+- individual competency
+- self-assessed level
+- evidence for evaluaton
+- SMART plan to improve
+
+
 ### Description
 
 Each team will receive:
