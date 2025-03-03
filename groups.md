@@ -6,6 +6,7 @@
 ![Capy's got our back](/capy-1012708.jpg)
 
 ## 1
+[Figma](https://www.figma.com/design/x7DRUKqjUmOMEVFxgQQ14Y/Capython?node-id=0-1&t=Pe7fyr3mMmRWEsFe-1)
 - Alexandra
 - Joshua
 - Polina
@@ -38,6 +39,7 @@
 ### final presentation:
 
 ## 3
+[Figma](https://www.figma.com/design/7LGtNWuMlce1bxsRIAG3Wy/CAPYTHON---FIGMA?node-id=0-1&p=f&t=eCIvXQk0O1qBVEz8-0)
 - Kirolos
 - Tiffany
 - Daniel E
@@ -117,6 +119,7 @@
 ### final presentation:
 
 ## 8
+[Figma](https://www.figma.com/design/pme95uQRuvrwStIGQjFu68/Plan-for-Capython?node-id=0-1&t=QOBPuNINTexhd1KV-1)
 - Kirsten
 - Mercedes
 - Clyde
