@@ -19,6 +19,7 @@
 - Building a respectful and supportive community
 ### goal
 - simplify
+### final presentation:
 
 
 ## 2
@@ -34,6 +35,7 @@
 - Honouring the Indigenous Education Protocol
 ### goal
 - optimize
+### final presentation:
 
 ## 3
 - Kirolos
@@ -49,6 +51,7 @@
 - Supporting the holistic well-being of students
 ### goal
 - challenge
+### final presentation:
 
 
 ## 4
@@ -64,6 +67,7 @@
 - Focusing on sustainability and innovation
 ### goal
 - amplify
+### final presentation:
 
 ## 5
 [Figma](https://www.figma.com/design/ETtjcQYN8vuZJod9BrC1H6/Mountain-Masters?node-id=0-1&t=fGK5sYqNDo4MnVGn-1)
@@ -80,6 +84,7 @@
 - Supporting the holistic well-being of students
 ### goal
 - empathize
+### final presentation:
 
 ## 6 ThinkFlow
 [Figma](https://www.figma.com/design/Oc7xCeNhazeSHQjNPRyNTz/ThinkFlow-Moodboard?node-id=51-51&t=ud7Urk6bvepEL2Aw-1   )
@@ -94,6 +99,7 @@
 - Focusing on sustainability and innovation
 ### goal
 - inspire
+### final presentation:
 
 ## 7 Mountain Masters
 [Mountain Masters Figma file](https://www.figma.com/design/ETtjcQYN8vuZJod9BrC1H6/Group-name%3A-Mountain-Masters?node-id=0-1&t=iMuIUjj7LFKiyeFm-1)
@@ -108,6 +114,7 @@
 - Focusing on sustainability and innovation
 ### goal
 - educate
+### final presentation:
 
 ## 8
 - Kirsten
@@ -123,6 +130,7 @@
 - Building respect for diversity and removing barriers to racial and social equity
 ### goal
 - illustrate
+### final presentation:
 
 ## 9 N0Cells
 [Figma](https://www.figma.com/design/s1lIfv9FTay3TFKKWhafDO/PLAN-FOR-CAPYTHON?node-id=0-1&t=DEHOPKURcKcLG4ye-1)
@@ -138,6 +146,7 @@
 - Honouring the Indigenous Education Protocol
 ### goal
 - facillitate
+### final presentation:
 
 ## 10
 [Figma](https://www.figma.com/design/n1QgvBlVbWeYjj4yYkR6rN/Multimedia-Hackathon?node-id=0-1&t=Nz73xgQYhlgH60Vr-1)
@@ -154,6 +163,8 @@
 - Engaging meaningfully in the world
 ### goal
 - transform
+### final presentation: Friday @9am
+
 
 ## 11 Shyne
 [Figma](https://www.figma.com/design/LFdXUE7c0TK57vQjZ5Xz0d/Capython?node-id=0-1&t=iXAKxAMUpabYYtwU-1)
@@ -170,6 +181,7 @@
 - Building a respectful and supportive community
 ### goal
 - motivate
+### final presentation:
 
 ## 12 NotYet
 - Lara
@@ -185,6 +197,7 @@
 - Building respect for diversity and removing barriers to racial and social equity
 ### goal
 - empower
+### final presentation:
 
 ## links & resources
 
