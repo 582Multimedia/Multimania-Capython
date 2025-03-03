@@ -37,7 +37,7 @@ Times to meet all together:
 - evidence for evaluaton
 - SMART plan to improve
 
-
+![creative questions](/creative_questions.png)
 [Creative Questions](https://vaniercollege-lea.omnivox.ca/cvir/ddlp/VisualiseDocument.aspx?C=VAN&E=P&L=ANG&Ref=20250303102821&SID=6710b60a-b90b-4396-9fae-78661375ea93&Info=WStBV1l5Q3V3MlZXTHB5djdST28zVnVkMlR5Zy9GVmVvZ1NKd1BnbGVKVVY3YUpmTWVPa3FCM1c0NGNZQThLdWlDK2VraUxSMjI4ZWlGam8rSjRjcXJEanY1TlhsMXN6UmJkaXhHUzY1d2lKYTBJV2U5ckhidjljalFlN3BIdGc5THMxdVNiZDdIcFg0am1adDU1WnNSakRKOXBEQ0tnZUhZd2g2V3QxUjUwPQ__&IDDocCoursDocument=da2654df-797d-4f16-906f-ed9bbce2e0b4)
 
 --- 
