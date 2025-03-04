@@ -6,6 +6,9 @@ a maniacal, multimedia hackathon with our friend Capy
 
 [check out the groups, focus areas & goals](/groups.md)
 
+
+[potlach planning](potlach.md)
+
 ### "full" group activity times
 **you should be present for all your regular class times plus**
 Times to meet all together:
