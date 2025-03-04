@@ -35,6 +35,7 @@ Each team will organize to bring their choice of the following feeding 30 people
 
 ## 7 Mountain Masters
 - Felipe
+- pizza (hopefully home made with love)
 
 
 ## 8
