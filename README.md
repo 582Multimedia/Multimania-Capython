@@ -6,6 +6,7 @@ a maniacal, multimedia hackathon with our friend Capy
 
 [check out the groups, focus areas & goals](/groups.md)
 
+[Augmented Reality Capython)[https://adobeaero.app.link/NgxfS2F6sRb] Go out front of 404 to see.
 
 [potlach planning](potlach.md)
 
