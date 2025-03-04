@@ -86,7 +86,7 @@
 - Supporting the holistic well-being of students
 ### goal
 - empathize
-### final presentation:
+### final presentation: 8:30 Friday a.m.
 
 ## 6 ThinkFlow
 [Figma](https://www.figma.com/design/Oc7xCeNhazeSHQjNPRyNTz/ThinkFlow-Moodboard?node-id=51-51&t=ud7Urk6bvepEL2Aw-1   )
