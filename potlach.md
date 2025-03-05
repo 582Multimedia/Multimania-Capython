@@ -21,9 +21,12 @@ Each team will organize to bring their choice of the following feeding 30 people
 
 
 
-## 4
+## 4 Sprout game
 - Jayvee
-
+- Nachos
+- Guac
+- Salsa
+- Chips
 
 ## 5
 - Alessandro
