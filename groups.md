@@ -36,7 +36,7 @@
 - Honouring the Indigenous Education Protocol
 ### goal
 - optimize
-### final presentation:
+### final presentation: 
 
 ## 3
 [Figma](https://www.figma.com/design/7LGtNWuMlce1bxsRIAG3Wy/CAPYTHON---FIGMA?node-id=0-1&p=f&t=eCIvXQk0O1qBVEz8-0)
@@ -53,7 +53,7 @@
 - Supporting the holistic well-being of students
 ### goal
 - challenge
-### final presentation:
+### final presentation: 9h vendredi
 
 
 ## 4
@@ -101,7 +101,7 @@
 - Focusing on sustainability and innovation
 ### goal
 - inspire
-### final presentation:
+### final presentation: 8h15 vendredi
 
 ## 7 Mountain Masters
 [Mountain Masters Figma file](https://www.figma.com/design/ETtjcQYN8vuZJod9BrC1H6/Group-name%3A-Mountain-Masters?node-id=0-1&t=iMuIUjj7LFKiyeFm-1)
@@ -116,7 +116,7 @@
 - Focusing on sustainability and innovation
 ### goal
 - educate
-### final presentation:
+### final presentation: 8h vendredi
 
 ## 8
 [Figma](https://www.figma.com/design/pme95uQRuvrwStIGQjFu68/Plan-for-Capython?node-id=0-1&t=QOBPuNINTexhd1KV-1)
@@ -133,7 +133,7 @@
 - Building respect for diversity and removing barriers to racial and social equity
 ### goal
 - illustrate
-### final presentation:
+### final presentation: 15h jeudi
 
 ## 9 N0Cells
 [Figma](https://www.figma.com/design/s1lIfv9FTay3TFKKWhafDO/PLAN-FOR-CAPYTHON?node-id=0-1&t=DEHOPKURcKcLG4ye-1)
@@ -200,7 +200,7 @@
 - Building respect for diversity and removing barriers to racial and social equity
 ### goal
 - empower
-### final presentation:
+### final presentation: 9h30 vendredi
 
 ## links & resources
 
