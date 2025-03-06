@@ -11,6 +11,8 @@ a maniacal, multimedia hackathon with our friend Capy
 
 [potlach planning](potlach.md)
 
+[schedule](capython_teams.pdf)
+
 ### "full" group activity times
 **you should be present for all your regular class times plus**
 Times to meet all together:
