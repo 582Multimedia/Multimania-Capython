@@ -20,7 +20,7 @@
 - Building a respectful and supportive community
 ### goal
 - simplify
-### final presentation:
+### final presentation: 15h vendredi
 
 
 ## 2
@@ -36,7 +36,7 @@
 - Honouring the Indigenous Education Protocol
 ### goal
 - optimize
-### final presentation: 
+### final presentation: 15h15 vendredi
 
 ## 3
 [Figma](https://www.figma.com/design/7LGtNWuMlce1bxsRIAG3Wy/CAPYTHON---FIGMA?node-id=0-1&p=f&t=eCIvXQk0O1qBVEz8-0)
@@ -69,7 +69,7 @@
 - Focusing on sustainability and innovation
 ### goal
 - amplify
-### final presentation:
+### final presentation: 15h30 vendredi
 
 ## 5
 [Figma](https://www.figma.com/design/ETtjcQYN8vuZJod9BrC1H6/Mountain-Masters?node-id=0-1&t=fGK5sYqNDo4MnVGn-1)
@@ -149,7 +149,7 @@
 - Honouring the Indigenous Education Protocol
 ### goal
 - facillitate
-### final presentation:
+### final presentation: 16h jeudi & 10h vendredi
 
 ## 10
 [Figma](https://www.figma.com/design/n1QgvBlVbWeYjj4yYkR6rN/Multimedia-Hackathon?node-id=0-1&t=Nz73xgQYhlgH60Vr-1)
@@ -184,7 +184,7 @@
 - Building a respectful and supportive community
 ### goal
 - motivate
-### final presentation:
+### final presentation: ???
 
 ## 12 NotYet
 - Lara
