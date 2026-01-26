@@ -4,104 +4,14 @@ a maniacal, multimedia hackathon with our friend Capy
 
 ![Capy's gettin' 'er done](/capy-1000123.jpg)
 
-[check out the groups, focus areas & goals](/groups.md)
-
-[Augmented Reality Capython](https://adobeaero.app.link/NgxfS2F6sRb) Go out front of 404 to see.
-![AR poster](virtual-gallery.png)
-
-[potlach planning](potlach.md)
-
-[schedule](capython_teams.pdf)
-
-### "full" group activity times
-**you should be present for all your regular class times plus**
-Times to meet all together:
-- Monday at 10am and or 3pm (intros & organization)
-- Wednesday at UB (12 noon) (scrum & mentoring)
-- Thursday sometime during the day (most of you are here)
-- Thursday 4-6 for "potlach" (a social event)
-- Friday at 11am or 3pm for final presentations (let us know when you can **all** be present)
-
 ## Multimania Project Details
 
-## Monday Objectives
-### Description of Project (Figma)
-- focus area
-- goal
-- project description
-- team members
-- send us the link to your Figma 
-  - create a project
-  - name your file!! 
-
-### Project Plan
-- meeting times
-- tasks (use backwards design for planning)
-  - deadlines
-  - assigned to?
- - time to share prototype with others on Thursday
- - final presentation time
- 
-### Capyskills
-- individual competency
-- self-assessed level
-- evidence for evaluaton
-- SMART plan to improve
-
-![creative questions](/creative_questions.png)
-[Creative Questions](https://vaniercollege-lea.omnivox.ca/cvir/ddlp/VisualiseDocument.aspx?C=VAN&E=P&L=ANG&Ref=20250303102821&SID=6710b60a-b90b-4396-9fae-78661375ea93&Info=WStBV1l5Q3V3MlZXTHB5djdST28zVnVkMlR5Zy9GVmVvZ1NKd1BnbGVKVVY3YUpmTWVPa3FCM1c0NGNZQThLdWlDK2VraUxSMjI4ZWlGam8rSjRjcXJEanY1TlhsMXN6UmJkaXhHUzY1d2lKYTBJV2U5ckhidjljalFlN3BIdGc5THMxdVNiZDdIcFg0am1adDU1WnNSakRKOXBEQ0tnZUhZd2g2V3QxUjUwPQ__&IDDocCoursDocument=da2654df-797d-4f16-906f-ed9bbce2e0b4)
 
 --- 
 ### Description
 
 Each team will receive:
 - a goal (like inform, persuade entertain)
-- a focus area from the [Vanier Student Success Plan](https://www.vaniercollege.qc.ca/strategic-plan) (like "Focussing on Sustainability and Innovation)
-
-As a team you will create a multimedia project that uses design thinking and theory to achieve your prescribed goal for your chosen focus area. Projects should include an immersive and / or interactive component.
-
-Individually you will create a portfolio piece that
-- describes and shares your team project
-- reveals your and your team's design process
-- includes your Capyskill package
-
-### Student Success Focus Areas
-- Engaging meaningfully in the world
-- Building a respectful and supportive community
-- Honouring the Indigenous Education Protocol
-- Focusing on sustainability and innovation
-- Achieving engaging and inclusive student learning
-- Supporting the holistic well-being of students
-- Building respect for diversity and removing barriers to racial and social equity
-
----
-
-## Goals
-- Inform
-- Persuade
-- Engage
-- Educate
-- Inspire
-- Entertain
-- Connect
-- Enhance
-- Challenge
-- Illustrate
-- Facilitate
-- Stimulate
-- Empower
-- Demonstrate
-- Simplify
-- Motivate
-- Captivate
-- Showcase
-- Clarify
-- Empathize
-- Amplify
-- Transform
-- Visualize
-- Build
-- Optimize
 
 ---
 
@@ -114,16 +24,6 @@ Individually you will create a portfolio piece that
 - Incorporate some sort of user interaction
 - Apply design theory, practices and thinking
 
-### Examples of projects
-
-- Real-time interactive multimedia project using tools such as TouchDesigner
-- Web-based game or application
-- Augmented reality experience
-- Arduino-based interactive installation
-- 3D environments / narratives such as in Blender
-- Video project (?? Possible to add interactivity?)
-- 3d printing project (combined with other media)
-- Physical Board or Card Game with Multimedia support
 
 ### Deliverables
 
@@ -142,46 +42,57 @@ Individually you will create a portfolio piece that
 
 ![Capy's got our back](/capy-1012708.jpg)
 
-## v.2025 Details
+## v.2026 Details
 
-### week of February 17
-- introduce Multimania Capython
-- dates, expectations, general deliverables etc
+### Wednesday February 18
+- soft launch: themes, teams & times
 
-### week of February 24
-- make teams & give them time to work together
+### February 25 - March 5
+- Capython v.2026
+- students should be at 404 during ALL program classes
+- students should also schedule full group meetings whenever possible
 
-### March 3-7 Capython
+### Wednesday February 25
+- launch day
+- plan project
+- assign roles
+- present projects during UB
 
-- **Monday** 10am and 2:30pm introductions
-  - Teams start planning
-  - Brainstorming session (project ideation)
-  - Share your Capyskill & level
-- **Monday** pm
-  - Presentations of plan
-- **Tuesday** am
-  - Mentor presentations / assistance
-- **Tuesday** pm project plan & start working
-  - Mood boards
-  - Research
-  - Sketches and wireframe
-  - Layouts
-  - User Profiles
-  - Gantt chart
-- **Wednesday** UB seminar
-  - UB (12 noon) all hands on deck – team check in on progress
-  - Working session with mentors
-  - Mentors in p.m.
-  - Working draft / prototype
-- **Thursday**
+### March 5 Capython Final Presentations
+- during UB all Teams will have 10 minutes to present their projects
+- all project websites must be online
+- all Capyskills pages must be updated
+
+
+
+- **Wednesday February 25**
+  - teams start planning
+  - brainstorming session (project ideation)
+  - presentations of plan
+  - share your Capyskill & level
+- **Thursday February 26**
+  - team meeting / updates
+    - mood boards
+    - research
+    - sketches and wireframe
+    - layouts
+    - user profiles
+    - gantt chart / calendar planning
+- **Friday February 27**
+  - work with mentors
+  - get feedback from mentors and others
+  - iterate and improve
+- **Monday**
   - Present draft to other team for feedback
-  - Finish project
-  - 5 à 7
-- **Friday** a.m.
-  - Prepare presentation
-- **Friday** 11am and 3pm
-  - Presentations
-  - Closing Ceremony
+  - make improvements
+- **Tuesday** a.m.
+  - finish project
+  - finish promotional website
+  - 5 à 7 ??
+- **Wednesday**
+  - a.m. final prepararation for presentations
+  - presentations
+  - closing ceremony
 
 ---
 
