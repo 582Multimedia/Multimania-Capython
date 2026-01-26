@@ -13,8 +13,29 @@ a maniacal, multimedia hackathon with our friend Capy
 ### Description
 
 Each team will receive:
-- a goal (like inform, persuade entertain)
+- a narrative trope [Book Tropes](https://www.scribophile.com/academy/book-tropes)
+- something else like: 
+  - A quote or 
+  - setting or 
+  - time period or 
+  - medium
 
+---
+
+### more brainstorming
+Their project can be their choice of:
+  - video
+  - animation
+  - comic book / graphic novel
+  - game
+  - podcast
+  - song
+
+  
+But it could also be a:
+  - product or service promotion
+  - PSA
+  - Wayfinding as in airport / metro / urban environment
 ---
 
 ### Projects should
