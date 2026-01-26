@@ -1,8 +1,10 @@
-# Multimania-Capython
+# Capython v.2026
 
 a maniacal, multimedia hackathon with our friend Capy
 
 ![Capy's gettin' 'er done](/capy-1000123.jpg)
+
+[Capython v.2025](README-v2025.md)
 
 ## Multimania Project Details
 

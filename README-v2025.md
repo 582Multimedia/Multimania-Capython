@@ -1,4 +1,4 @@
-# Multimania-Capython
+# Capython v.2025
 
 a maniacal, multimedia hackathon with our friend Capy
 
