@@ -38,6 +38,16 @@ But it could also be a:
   - Wayfinding as in airport / metro / urban environment
 ---
 
+
+### more ideas
+  - choose a name for your group / company (Robert)
+  - suggest verticals format [verticals guide](https://firework.com/blog/vertical-video)
+  - [vertical dramas script](https://medium.com/real-reel/the-anatomy-of-a-vertical-drama-script-edcb43d139bb)
+  - [more script stuff](https://www.inktip.com/article_single.php?a_id=259)
+  
+
+
+---
 ### Projects should
 
 - Have a well-defined purpose, inform, share, entertain, evoke emotion
