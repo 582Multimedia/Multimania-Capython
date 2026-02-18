@@ -17,6 +17,7 @@ Each team will:
 4.	Present a 5-minute maximum video pitch
 This is a strategic, creative, and execution-focused challenge.
 
+![Capy's got our back](/capy-launch.jpg)
 
 ---
 
