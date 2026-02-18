@@ -38,31 +38,32 @@ Your Agency Must Deliver
 ### Event Strategy & Solution
 You must create a comprehensive solution tailored to your assigned event.
 Your response should include:
-    - Event branding direction
-    - Strategic positioning
-    - Key audience definition
-    - Experience design approach
-    - Media/promotion strategy
-    - At least one core design execution (relevant to your agency type)
+  - Event branding direction
+  - Strategic positioning
+  - Key audience definition
+  - Experience design approach
+  - Media/promotion strategy
+  - At least one core design execution (relevant to your agency type)
 
 ---
 
 ### Emerging Technology Component (MANDATORY)
 Every agency must integrate at least ONE emerging technology element into the event solution.
   Examples:
-    - AR / VR
-    - AI-generated interaction
-    - Interactive installation
-    - Real-time data visualization
-    - Projection mapping
-    - NFT / digital collectible strategy
-    - Smart wearables
-    - Generative design
-    •	Interactive web experience
+  - AR / VR
+  - AI-generated interaction
+  - Interactive installation
+  - Real-time data visualization
+  - Projection mapping
+  - NFT / digital collectible strategy
+  - Smart wearables
+  - Generative design
+  -	Interactive web experience
+  -	
   The tech must:
-    - Be purposeful (not decorative)
-    - Enhance audience engagement
-    - Align with the event’s goals
+  - Be purposeful (not decorative)
+  - Enhance audience engagement
+  - Align with the event’s goals
 
   
 
