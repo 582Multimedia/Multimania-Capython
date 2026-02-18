@@ -31,6 +31,7 @@ Your Agency Must Deliver
     - Logo / visual identity system
     - Brand voice
     - Mission statement (clear positioning)
+    - [Capyskills package](#capyskills-package)
 
 ---
 
@@ -63,7 +64,7 @@ Every agency must integrate at least ONE emerging technology element into the ev
     - Enhance audience engagement
     - Align with the event’s goals
 
-  - [Capyskills package](#capyskills-package)
+  
 
 --- 
 
