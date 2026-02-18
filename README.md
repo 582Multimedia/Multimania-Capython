@@ -2,68 +2,83 @@
 
 a maniacal, multimedia hackathon with our friend Capy
 
-![Capy's gettin' 'er done](/capy-1000123.jpg)
-
 [Capython v.2025](README-v2025.md)
 
-## Multimania Project Details
 
 
 --- 
-### Description
+### Overview
 
-Each team will receive:
-- a narrative trope [Book Tropes](https://www.scribophile.com/academy/book-tropes)
-- something else like: 
-  - A quote or 
-  - setting or 
-  - time period or 
-  - medium
+Welcome to Capython 2026 - an intensive multidisciplinary hackathon where mixed-year agency teams respond to a randomly assigned live event brief.
+Each team will:
+1.	Choose an Agency Type
+2.	Receive a Random Event
+3.	Develop a full agency response and solution
+4.	Present a 5-minute maximum video pitch
+This is a strategic, creative, and execution-focused challenge.
+
 
 ---
 
-### more brainstorming
-Their project can be their choice of:
-  - video
-  - animation
-  - comic book / graphic novel
-  - game
-  - podcast
-  - song
+### Goal of Capython
+To simulate real-world multidisciplinary agency collaboration under time pressure - combining strategy, design, storytelling, technology, and execution.
 
-  
-But it could also be a:
-  - product or service promotion
-  - PSA
-  - Wayfinding as in airport / metro / urban environment
 ---
-
-### Projects should
-
-- Have a well-defined purpose, inform, share, entertain, evoke emotion
-- Ideally projects would be authentic & creative, ideally solving some real-world problem
-- Use various media
-- Have clear direction and a consistent visual language across media
-- Incorporate some sort of user interaction
-- Apply design theory, practices and thinking
-
-
 ### Deliverables
+Your Agency Must Deliver
+  - Agency Identity
+    •	Agency name
+    •	Logo / visual identity system
+    •	Brand voice
+    •	Mission statement (clear positioning)
 
-- Project Description / Presentation (Monday)
-- Project Plan (Tuesday)
-  - List of actionable items
-- Progress report / agile scrum (Wednesday)
-- Present working draft/prototype / play test (Thursday)
-- Get and Give Feedback for Case Study
-- Web Page Promotional Materials
-- Final Group Presentation
-- Portfolio / Case Study
+---
+
+### Event Strategy & Solution
+You must create a comprehensive solution tailored to your assigned event.
+Your response should include:
+    •	Event branding direction
+    •	Strategic positioning
+    •	Key audience definition
+    •	Experience design approach
+    •	Media/promotion strategy
+    •	At least one core design execution (relevant to your agency type)
+
+---
+
+### Emerging Technology Component (MANDATORY)
+Every agency must integrate at least ONE emerging technology element into the event solution.
+  Examples:
+    •	AR / VR
+    •	AI-generated interaction
+    •	Interactive installation
+    •	Real-time data visualization
+    •	Projection mapping
+    •	NFT / digital collectible strategy
+    •	Smart wearables
+    •	Generative design
+    •	Interactive web experience
+  The tech must:
+    •	Be purposeful (not decorative)
+    •	Enhance audience engagement
+    •	Align with the event’s goals
+
   - [Capyskills package](#capyskills-package)
 
 --- 
 
-![Capy's got our back](/capy-1012708.jpg)
+### Final Deliverable
+🎥 5-Minute Maximum Video Presentation
+Your video must:
+    •	Introduce your agency
+    •	Present your strategic thinking
+    •	Showcase visual concepts
+    •	Explain the emerging tech component
+    •	Demonstrate how your solution makes the event successful
+
+* Videos exceeding 5 minutes = grade penalty. *
+
+--- 
 
 ## v.2026 Details
 
