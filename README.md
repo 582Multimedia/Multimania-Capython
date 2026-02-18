@@ -23,7 +23,23 @@ This is a strategic, creative, and execution-focused challenge.
 ### Goal of Capython
 To simulate real-world multidisciplinary agency collaboration under time pressure - combining strategy, design, storytelling, technology, and execution.
 
+
+--- 
+
+### Agency Types
+
+  1. Creative / conceptual :: Concept development, big ideas, campaigns
+  2. Photo / Video / Motion Graphics	:: Visual storytelling, motion, cinematography
+  3. Web	:: Website design, development, UX/UI
+  4. Graphic Design / Packaging	:: Print and packaging, typography, identity
+  5. Interactive / Realtime Video	:: Interactive media, live video, real-time graphics
+  6. Social Media	:: Social strategy, content, engagement\
+  7. Branding	:: Brand identity, voice, positioning
+  8. Interactive Installation Studio	:: Sensor-based installations, motion tracking, reactive projections
+  
+
 ---
+
 ### Deliverables
 Your Agency Must Deliver
   - Agency Identity
