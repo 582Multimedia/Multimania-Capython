@@ -27,41 +27,41 @@ To simulate real-world multidisciplinary agency collaboration under time pressur
 ### Deliverables
 Your Agency Must Deliver
   - Agency Identity
-    •	Agency name
-    •	Logo / visual identity system
-    •	Brand voice
-    •	Mission statement (clear positioning)
+    - Agency name
+    - Logo / visual identity system
+    - Brand voice
+    - Mission statement (clear positioning)
 
 ---
 
 ### Event Strategy & Solution
 You must create a comprehensive solution tailored to your assigned event.
 Your response should include:
-    •	Event branding direction
-    •	Strategic positioning
-    •	Key audience definition
-    •	Experience design approach
-    •	Media/promotion strategy
-    •	At least one core design execution (relevant to your agency type)
+    - Event branding direction
+    - Strategic positioning
+    - Key audience definition
+    - Experience design approach
+    - Media/promotion strategy
+    - At least one core design execution (relevant to your agency type)
 
 ---
 
 ### Emerging Technology Component (MANDATORY)
 Every agency must integrate at least ONE emerging technology element into the event solution.
   Examples:
-    •	AR / VR
-    •	AI-generated interaction
-    •	Interactive installation
-    •	Real-time data visualization
-    •	Projection mapping
-    •	NFT / digital collectible strategy
-    •	Smart wearables
-    •	Generative design
+    - AR / VR
+    - AI-generated interaction
+    - Interactive installation
+    - Real-time data visualization
+    - Projection mapping
+    - NFT / digital collectible strategy
+    - Smart wearables
+    - Generative design
     •	Interactive web experience
   The tech must:
-    •	Be purposeful (not decorative)
-    •	Enhance audience engagement
-    •	Align with the event’s goals
+    - Be purposeful (not decorative)
+    - Enhance audience engagement
+    - Align with the event’s goals
 
   - [Capyskills package](#capyskills-package)
 
@@ -70,11 +70,11 @@ Every agency must integrate at least ONE emerging technology element into the ev
 ### Final Deliverable
 🎥 5-Minute Maximum Video Presentation
 Your video must:
-    •	Introduce your agency
-    •	Present your strategic thinking
-    •	Showcase visual concepts
-    •	Explain the emerging tech component
-    •	Demonstrate how your solution makes the event successful
+    - Introduce your agency
+    - Present your strategic thinking
+    - Showcase visual concepts
+    - Explain the emerging tech component
+    - Demonstrate how your solution makes the event successful
 
 * Videos exceeding 5 minutes = grade penalty. *
 
