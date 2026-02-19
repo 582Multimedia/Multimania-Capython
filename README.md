@@ -173,3 +173,9 @@ In a cloud document of your choice (Figma, Teams, Canva... whatever)
 - when you move up a level, celebrate, check out other Capyskills and continue to improve
 - Ultimately the plan is to help you improve in the areas that mean the most to you.
 - pro tip: double-check your document is accessible to others by opening your link in an incognito window
+
+---
+## Resources
+
+  - use Github to share stuff
+  - use Figma to plan stuff
