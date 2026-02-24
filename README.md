@@ -4,17 +4,17 @@ a maniacal, multimedia hackathon with our friend Capy
 
 [Capython v.2025](README-v2025.md)
 
+---
 
-
---- 
 ### Overview
 
 Welcome to Capython 2026 - an intensive multidisciplinary hackathon where mixed-year agency teams respond to a randomly assigned live event brief.
 Each team will:
-1.	Choose an Agency Type
-2.	Receive a Random Event
-3.	Develop a full agency response and solution
-4.	Present a 5-minute maximum video pitch
+
+1. Choose an Agency Type
+2. Receive a Random Event
+3. Develop a full agency response and solution
+4. Present a 5-minute maximum video pitch
 This is a strategic, creative, and execution-focused challenge.
 
 ![Capy's got our back](/capy-launch.jpg)
@@ -22,105 +22,114 @@ This is a strategic, creative, and execution-focused challenge.
 ---
 
 ### Goal of Capython
+
 To simulate real-world multidisciplinary agency collaboration under time pressure - combining strategy, design, storytelling, technology, and execution.
 
-
---- 
+---
 
 ### Agency Types
 
   1. Creative / conceptual :: Concept development, big ideas, campaigns
-  2. Photo / Video / Motion Graphics	:: Visual storytelling, motion, cinematography
-  3. Web	:: Website design, development, UX/UI
-  4. Graphic Design / Packaging	:: Print and packaging, typography, identity
-  5. Interactive / Realtime Video	:: Interactive media, live video, real-time graphics
-  6. Social Media	:: Social strategy, content, engagement\
-  7. Branding	:: Brand identity, voice, positioning
-  8. Interactive Installation Studio	:: Sensor-based installations, motion tracking, reactive projections
+  2. Photo / Video / Motion Graphics :: Visual storytelling, motion, cinematography
+  3. Web :: Website design, development, UX/UI
+  4. Graphic Design / Packaging :: Print and packaging, typography, identity
+  5. Interactive / Realtime Video :: Interactive media, live video, real-time graphics
+  6. Social Media :: Social strategy, content, engagement\
+  7. Branding :: Brand identity, voice, positioning
+  8. Interactive Installation Studio :: Sensor-based installations, motion tracking, reactive projections
   
-
 ---
 
 ### Deliverables
+
 Your Agency Must Deliver
-  - Agency Identity
-    - Agency name
-    - Logo / visual identity system
-    - Brand voice
-    - Mission statement (clear positioning)
-    - [Capyskills package](#capyskills-package)
+
+- Agency Identity
+  - Agency name
+  - Logo / visual identity system
+  - Brand voice
+  - Mission statement (clear positioning)
+  - [Capyskills package](#capyskills-package)
 
 ---
 
 ### Event Strategy & Solution
+
 You must create a comprehensive solution tailored to your assigned event.
 Your response should include:
-  - Event branding direction
-  - Strategic positioning
-  - Key audience definition
-  - Experience design approach
-  - Media/promotion strategy
-  - At least one core design execution (relevant to your agency type)
+
+- Event branding direction
+- Strategic positioning
+- Key audience definition
+- Experience design approach
+- Media/promotion strategy
+- At least one core design execution (relevant to your agency type)
 
 ---
 
 ### Emerging Technology Component (MANDATORY)
+
 Every agency must integrate at least ONE emerging technology element into the event solution.
   Examples:
-  - AR / VR
-  - AI-generated interaction
-  - Interactive installation
-  - Real-time data visualization
-  - Projection mapping
-  - NFT / digital collectible strategy
-  - Smart wearables
-  - Generative design
-  -	Interactive web experience
+
+- AR / VR
+- AI-generated interaction
+- Interactive installation
+- Real-time data visualization
+- Projection mapping
+- NFT / digital collectible strategy
+- Smart wearables
+- Generative design
+- Interactive web experience
   
   The tech must:
-  - Be purposeful (not decorative)
-  - Enhance audience engagement
-  - Align with the event’s goals
 
-  
+- Be purposeful (not decorative)
+- Enhance audience engagement
+- Align with the event’s goals
 
---- 
+---
 
 ### Final Deliverable
+
 🎥 5-Minute Maximum Video Presentation
 Your video must:
-  - Introduce your agency
-  - Present your strategic thinking
-  - Showcase visual concepts
-  - Explain the emerging tech component
-  - Demonstrate how your solution makes the event successful
 
-* Videos exceeding 5 minutes = grade penalty. *
+- Introduce your agency
+- Present your strategic thinking
+- Showcase visual concepts
+- Explain the emerging tech component
+- Demonstrate how your solution makes the event successful
 
---- 
+- Videos exceeding 5 minutes = grade penalty. *
+
+---
 
 ## v.2026 Details
 
 ### Wednesday February 18
+
 - soft launch: themes, teams & times
 
 ### February 25 - March 5
+
 - Capython v.2026
 - students should be at 404 during ALL program classes
 - students should also schedule full group meetings whenever possible
 
 ### Wednesday February 25
+
 - launch day
 - plan project
 - assign roles
 - present projects during UB
 
 ### March 5 Capython Final Presentations
-- during UB all Teams will have 10 minutes to present their projects
+<!-- - during UB all Teams will have 10 minutes to present their projects -->
+- 5-Minute Maximum Video Presentation due before the end of UB
+- all team videos should be available via youtube link
 - all project websites must be online
 - all Capyskills pages must be updated
-
-
 
 - **Wednesday February 25**
   - teams start planning
@@ -156,7 +165,9 @@ Your video must:
 ![Capy's got our back](/capy-1000121.jpg)
 
 ---
+
 ## Capyskills Package
+
 Capyskills Journal
 
 In a cloud document of your choice (Figma, Teams, Canva... whatever)
@@ -175,7 +186,8 @@ In a cloud document of your choice (Figma, Teams, Canva... whatever)
 - pro tip: double-check your document is accessible to others by opening your link in an incognito window
 
 ---
+
 ## Resources
 
-  - use Github to share stuff
-  - use Figma to plan stuff
+- use Github to share stuff
+- use Figma to plan stuff
