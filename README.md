@@ -26,13 +26,13 @@ This is a strategic, creative, and execution-focused challenge.
 To simulate real-world multidisciplinary agency collaboration under time pressure - combining strategy, design, storytelling, technology, and execution.
 ### Capyskills
   During the Capython, we can focus on 1 or more transversal competencies such as:
-    - NGE.1 [Collaborate Effectively](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1072229056#gid=1072229056)
-    - VA.1 [Creating Design Projects](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=146427341#gid=146427341)
-    - PD.3 [Demonstrate Social Skills and Awareness](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1849048993#gid=1849048993)
-    * link your individual Capyskills* from your 
-      - Agency website, 
-      - repository and 
-      - Figma
+  - NGE.1 [Collaborate Effectively](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1072229056#gid=1072229056)
+  - VA.1 [Creating Design Projects](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=146427341#gid=146427341)
+  - PD.3 [Demonstrate Social Skills and Awareness](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1849048993#gid=1849048993)
+  * link your individual Capyskills* from your 
+    - Agency website, 
+    - repository and 
+    - Figma
 
 ---
 
