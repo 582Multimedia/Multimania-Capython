@@ -155,6 +155,10 @@ Your website must:
 - all project websites must be online
 - all Capyskills pages must be updated
 
+---
+
+## detailed daily plans
+
 - **Wednesday February 25**
   - teams start planning
   - brainstorming session (project ideation)
