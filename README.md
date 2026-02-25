@@ -29,7 +29,7 @@ To simulate real-world multidisciplinary agency collaboration under time pressur
   - NGE.1 [Collaborate Effectively](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1072229056#gid=1072229056)
   - VA.1 [Creating Design Projects](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=146427341#gid=146427341)
   - PD.3 [Demonstrate Social Skills and Awareness](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1849048993#gid=1849048993)
-  * link your individual Capyskills* from your 
+  * link your individual Capyskills * from your 
     - Agency website, 
     - repository and 
     - Figma
@@ -52,12 +52,15 @@ To simulate real-world multidisciplinary agency collaboration under time pressur
 ### Deliverables
 
 Your Agency Must Deliver
+- your project
+- promotional website including
   - Agency Identity
     - Agency name
     - Logo / visual identity system
     - Brand voice
     - Mission statement (clear positioning)
-    - [Capyskills package](#capyskills-package)
+- video presentation ( max 5 minutes )
+- and individually a [Capyskills package](#capyskills-package) linked from your team website, repository and Figma
 
 ---
 
@@ -130,6 +133,10 @@ Your video must:
 - launch day
 - plan project
 - assign roles
+- set up the following collaboration tools:
+  - Figma for the project
+  - Git repository
+  - dedicated website ( with Bruce )
 - present projects during UB
 
 ### March 5 Capython Final Presentations
@@ -144,6 +151,7 @@ Your video must:
   - brainstorming session (project ideation)
   - presentations of plan
   - share your Capyskill & level
+
 - **Thursday February 26**
   - team meeting / updates
     - mood boards
@@ -152,17 +160,21 @@ Your video must:
     - layouts
     - user profiles
     - gantt chart / calendar planning
+
 - **Friday February 27**
   - work with mentors
   - get feedback from mentors and others
   - iterate and improve
+
 - **Monday**
   - Present draft to other team for feedback
   - make improvements
+
 - **Tuesday** a.m.
   - finish project
   - finish promotional website
   - 5 à 7 ??
+  
 - **Wednesday**
   - a.m. final prepararation for presentations
   - presentations
