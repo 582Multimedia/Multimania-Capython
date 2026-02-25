@@ -29,7 +29,7 @@ To simulate real-world multidisciplinary agency collaboration under time pressur
   - NGE.1 [Collaborate Effectively](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1072229056#gid=1072229056)
   - VA.1 [Creating Design Projects](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=146427341#gid=146427341)
   - PD.3 [Demonstrate Social Skills and Awareness](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1849048993#gid=1849048993)
-  * link your individual Capyskills * from your 
+  **link your individual Capyskills** from your 
     - Agency website, 
     - repository and 
     - Figma
@@ -146,12 +146,7 @@ Your website must:
 
 - launch day
 - plan project
-- assign roles
-- set up the following collaboration tools:
-  - Figma for the project
-  - Git repository
-  - dedicated website ( with Bruce )
-- present projects during UB
+- present projects before the end of the day
 
 ### March 5 Capython Final Presentations
 <!-- - during UB all Teams will have 10 minutes to present their projects -->
@@ -164,6 +159,11 @@ Your website must:
   - teams start planning
   - brainstorming session (project ideation)
   - presentations of plan
+  - assign roles
+  - set up the following collaboration tools:
+    - Figma for the project
+    - Git repository
+    - dedicated website ( with Bruce )
   - share your Capyskill & level
 
 - **Thursday February 26**
