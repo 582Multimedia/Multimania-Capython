@@ -54,12 +54,8 @@ To simulate real-world multidisciplinary agency collaboration under time pressur
 Your Agency Must Deliver
 - your project
 - promotional website including
-  - Agency Identity
-    - Agency name
-    - Logo / visual identity system
-    - Brand voice
-    - Mission statement (clear positioning)
 - video presentation ( max 5 minutes )
+
 - and individually a [Capyskills package](#capyskills-package) linked from your team website, repository and Figma
 
 ---
@@ -101,7 +97,7 @@ Every agency must integrate at least ONE emerging technology element into the ev
 
 ---
 
-### Final Deliverable
+### Video Presentation Deliverable
 
 🎥 5-Minute Maximum Video Presentation
 Your video must:
@@ -113,6 +109,24 @@ Your video must:
 - Demonstrate how your solution makes the event successful
 
 - Videos exceeding 5 minutes = grade penalty. *
+
+---
+
+### Promotional Website Deliverable
+
+Your website must:
+
+- Introduce your agency
+- Agency Identity
+    - Agency name
+    - Logo / visual identity system
+    - Brand voice
+    - Mission statement (clear positioning)
+- Present your strategic thinking
+- Showcase visual concepts
+- Explain the emerging tech component
+- Demonstrate how your solution makes the event successful
+- Present your project 
 
 ---
 
@@ -174,7 +188,7 @@ Your video must:
   - finish project
   - finish promotional website
   - 5 à 7 ??
-  
+
 - **Wednesday**
   - a.m. final prepararation for presentations
   - presentations
