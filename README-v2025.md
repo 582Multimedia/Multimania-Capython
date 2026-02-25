@@ -7,11 +7,11 @@ a maniacal, multimedia hackathon with our friend Capy
 [check out the groups, focus areas & goals](/groups.md)
 
 [Augmented Reality Capython](https://adobeaero.app.link/NgxfS2F6sRb) Go out front of 404 to see.
-![AR poster](virtual-gallery.png)
+![AR poster](/2025/virtual-gallery.png)
 
-[potlach planning](potlach.md)
+[potlach planning](/2025/potlach.md)
 
-[schedule](capython_teams.pdf)
+[schedule](2025/capython_teams.pdf)
 
 ### "full" group activity times
 **you should be present for all your regular class times plus**
@@ -140,7 +140,7 @@ Individually you will create a portfolio piece that
 
 --- 
 
-![Capy's got our back](/capy-1012708.jpg)
+![Capy's got our back](/images/capy-1012708.jpg)
 
 ## v.2025 Details
 
@@ -185,7 +185,7 @@ Individually you will create a portfolio piece that
 
 ---
 
-![Capy's got our back](/capy-1000121.jpg)
+![Capy's got our back](/images/capy-1000121.jpg)
 
 ---
 ## Capyskills Package
