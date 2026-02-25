@@ -145,6 +145,7 @@ Your website must:
 ### Wednesday February 25
 
 - launch day
+  - [presentation](materials/capython-2026-opening-presentation-v2.pdf)
 - plan project
 - present projects before the end of the day
 
