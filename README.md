@@ -2,107 +2,182 @@
 
 a maniacal, multimedia hackathon with our friend Capy
 
-![Capy's gettin' 'er done](/capy-1000123.jpg)
-
 [Capython v.2025](README-v2025.md)
 
-## Multimania Project Details
+---
 
+## feedback
+### liked
+  - meeting students from other grades
+  - gained experience for future studies / work
+  - improved my focus
+  - liked how 
 
---- 
-### Description
+### Overview
 
-Each team will receive:
-- a narrative trope [Book Tropes](https://www.scribophile.com/academy/book-tropes)
-- something else like: 
-  - A quote or 
-  - setting or 
-  - time period or 
-  - medium
+Welcome to Capython 2026 - an intensive multidisciplinary hackathon where mixed-year agency teams respond to a randomly assigned live event brief.
+Each team will:
+
+1. Choose an Agency Type
+2. Receive a Random Event
+3. Develop a full agency response and solution
+4. Present a 5-minute maximum video pitch
+This is a strategic, creative, and execution-focused challenge.
+
+![Capy's got our back](/images/capy-launch.jpg)
 
 ---
 
-### more brainstorming
-Their project can be their choice of:
-  - video
-  - animation
-  - comic book / graphic novel
-  - game
-  - podcast
-  - song
-
+### Goal of Capython
   
-But it could also be a:
-  - product or service promotion
-  - PSA
-  - Wayfinding as in airport / metro / urban environment
+To simulate real-world multidisciplinary agency collaboration under time pressure - combining strategy, design, storytelling, technology, and execution.
+### Capyskills
+  During the Capython, we can focus on 1 or more transversal competencies such as:
+  - NGE.1 [Collaborate Effectively](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1072229056#gid=1072229056)
+  - VA.1 [Creating Design Projects](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=146427341#gid=146427341)
+  - PD.3 [Demonstrate Social Skills and Awareness](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=1849048993#gid=1849048993)
+  **link your individual Capyskills** from your 
+    - Agency website, 
+    - repository and 
+    - Figma
+
 ---
 
+### Agency Types
 
-### more ideas
-  - choose a name for your group / company (Robert)
-  - suggest verticals format [verticals guide](https://firework.com/blog/vertical-video)
-  - [vertical dramas script](https://medium.com/real-reel/the-anatomy-of-a-vertical-drama-script-edcb43d139bb)
-  - [more script stuff](https://www.inktip.com/article_single.php?a_id=259)
+  1. Creative / conceptual :: Concept development, big ideas, campaigns
+  2. Photo / Video / Motion Graphics :: Visual storytelling, motion, cinematography
+  3. Web :: Website design, development, UX/UI
+  4. Graphic Design / Packaging :: Print and packaging, typography, identity
+  5. Interactive / Realtime Video :: Interactive media, live video, real-time graphics
+  6. Social Media :: Social strategy, content, engagement\
+  7. Branding :: Brand identity, voice, positioning
+  8. Interactive Installation Studio :: Sensor-based installations, motion tracking, reactive projections
   
-
-
 ---
-### Projects should
-
-- Have a well-defined purpose, inform, share, entertain, evoke emotion
-- Ideally projects would be authentic & creative, ideally solving some real-world problem
-- Use various media
-- Have clear direction and a consistent visual language across media
-- Incorporate some sort of user interaction
-- Apply design theory, practices and thinking
-
 
 ### Deliverables
 
-- Project Description / Presentation (Monday)
-- Project Plan (Tuesday)
-  - List of actionable items
-- Progress report / agile scrum (Wednesday)
-- Present working draft/prototype / play test (Thursday)
-- Get and Give Feedback for Case Study
-- Web Page Promotional Materials
-- Final Group Presentation
-- Portfolio / Case Study
-  - [Capyskills package](#capyskills-package)
+Your Agency Must Deliver
+- your project
+- promotional website including
+- video presentation ( max 5 minutes )
 
---- 
+- and individually a [Capyskills package](#capyskills-package) linked from your team website, repository and Figma
 
-![Capy's got our back](/capy-1012708.jpg)
+---
+
+### Event Strategy & Solution
+
+You must create a comprehensive solution tailored to your assigned event.
+Your response should include:
+
+- Event branding direction
+- Strategic positioning
+- Key audience definition
+- Experience design approach
+- Media/promotion strategy
+- At least one core design execution (relevant to your agency type)
+
+---
+
+### Emerging Technology Component (MANDATORY)
+
+Every agency must integrate at least ONE emerging technology element into the event solution.
+  Examples:
+
+- AR / VR
+- AI-generated interaction
+- Interactive installation
+- Real-time data visualization
+- Projection mapping
+- NFT / digital collectible strategy
+- Smart wearables
+- Generative design
+- Interactive web experience
+  
+  The tech must:
+
+- Be purposeful (not decorative)
+- Enhance audience engagement
+- Align with the event’s goals
+
+---
+
+### Video Presentation Deliverable
+
+🎥 5-Minute Maximum Video Presentation
+Your video must:
+
+- Introduce your agency
+- Present your strategic thinking
+- Showcase visual concepts
+- Explain the emerging tech component
+- Demonstrate how your solution makes the event successful
+
+- Videos exceeding 5 minutes = grade penalty. *
+
+---
+
+### Promotional Website Deliverable
+
+Your website must:
+
+- Introduce your agency
+- Agency Identity
+    - Agency name
+    - Logo / visual identity system
+    - Brand voice
+    - Mission statement (clear positioning)
+- Present your strategic thinking
+- Showcase visual concepts
+- Explain the emerging tech component
+- Demonstrate how your solution makes the event successful
+- Present your project 
+
+---
 
 ## v.2026 Details
 
 ### Wednesday February 18
+
 - soft launch: themes, teams & times
 
 ### February 25 - March 5
+
 - Capython v.2026
 - students should be at 404 during ALL program classes
 - students should also schedule full group meetings whenever possible
 
 ### Wednesday February 25
+
 - launch day
+  - [presentation](materials/capython-2026-opening-presentation-v2.pdf)
 - plan project
-- assign roles
-- present projects during UB
+- present projects before the end of the day
 
 ### March 5 Capython Final Presentations
-- during UB all Teams will have 10 minutes to present their projects
+<!-- - during UB all Teams will have 10 minutes to present their projects -->
+- 5-Minute Maximum Video Presentation due before the end of UB
+- all team videos should be available via youtube link
 - all project websites must be online
 - all Capyskills pages must be updated
 
+---
 
+## detailed daily plans
 
 - **Wednesday February 25**
   - teams start planning
   - brainstorming session (project ideation)
   - presentations of plan
+  - assign roles
+  - set up the following collaboration tools:
+    - Figma for the project
+    - Git repository
+    - dedicated website ( with Bruce )
   - share your Capyskill & level
+
 - **Thursday February 26**
   - team meeting / updates
     - mood boards
@@ -111,17 +186,21 @@ But it could also be a:
     - layouts
     - user profiles
     - gantt chart / calendar planning
+
 - **Friday February 27**
   - work with mentors
   - get feedback from mentors and others
   - iterate and improve
+
 - **Monday**
   - Present draft to other team for feedback
   - make improvements
+
 - **Tuesday** a.m.
   - finish project
   - finish promotional website
   - 5 à 7 ??
+
 - **Wednesday**
   - a.m. final prepararation for presentations
   - presentations
@@ -132,7 +211,9 @@ But it could also be a:
 ![Capy's got our back](/capy-1000121.jpg)
 
 ---
+
 ## Capyskills Package
+
 Capyskills Journal
 
 In a cloud document of your choice (Figma, Teams, Canva... whatever)
@@ -149,3 +230,10 @@ In a cloud document of your choice (Figma, Teams, Canva... whatever)
 - when you move up a level, celebrate, check out other Capyskills and continue to improve
 - Ultimately the plan is to help you improve in the areas that mean the most to you.
 - pro tip: double-check your document is accessible to others by opening your link in an incognito window
+
+---
+
+## Resources
+
+- use Github to share stuff
+- use Figma to plan stuff
