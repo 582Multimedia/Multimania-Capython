@@ -6,6 +6,13 @@ a maniacal, multimedia hackathon with our friend Capy
 
 ---
 
+## feedback
+### liked
+  - meeting students from other grades
+  - gained experience for future studies / work
+  - improved my focus
+  - liked how 
+
 ### Overview
 
 Welcome to Capython 2026 - an intensive multidisciplinary hackathon where mixed-year agency teams respond to a randomly assigned live event brief.
