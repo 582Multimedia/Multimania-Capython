@@ -8,10 +8,35 @@ a maniacal, multimedia hackathon with our friend Capy
 
 ## feedback
 ### liked
-  - meeting students from other grades
+  - meeting students from other cohorts
+  - improved communication skills
   - gained experience for future studies / work
-  - improved my focus
-  - liked how 
+  - improved ability to focus on tasks and deliverables
+  - liked how we could ask teachers & mentors for help / feedback
+
+### to improve
+  - use of Github
+  - messaging system ( Instagram, Discord ) vs Teams / GitHub 
+  - 3rd years were absent / said too busy with internships etc
+  - no live presentation, didn't get to see the other projects
+  - reserve the UBs early so we don't schedule other things
+  - gen eds??
+  - unclear on whether projects would be graded
+  - scheduling
+    - make groups & assign project on pre-launch
+    - do it earlier, so it doesn't interfere with midterms
+    - do it later, after study break
+    - start week before study break and finish the week after??
+  - don't put all with similar roles together i.e. motion graphics all in 1 group
+
+### project ideas
+  - multimedia installation
+    - touch designer interactive
+    - projection mapping
+    - VR animation
+    - booth / packaging 
+    - 3d printed scene / 
+
 
 ### Overview
 
