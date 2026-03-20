@@ -37,6 +37,7 @@ a maniacal, multimedia hackathon with our friend Capy
     - booth / packaging 
     - 3d printed scene / 
 
+---
 
 ### Overview
 
